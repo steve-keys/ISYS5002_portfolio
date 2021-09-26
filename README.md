@@ -6,4 +6,4 @@ This will contain all the notebooks I have developed in ISYS5002 Intro to Progra
 * Simple Interest
 * Business Buzzword Generator
 * Payslip
-* 
+* Sale Price
