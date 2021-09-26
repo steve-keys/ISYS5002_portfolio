@@ -9,5 +9,7 @@ This will contain all the notebooks I have developed in ISYS5002 Introduction to
 * Sale Price
 * Audio to Text
 * ASX Daily Returns
+* Tax Calculation
+* Text Summarizer
 
 ### Example of Level 3 Header
